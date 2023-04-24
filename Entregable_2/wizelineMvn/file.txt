@@ -1,0 +1,8 @@
+user1@wizeline.com, pass1JON
+user2@wizeline.com, pass2
+user3@wizeline.com, pass3
+user20@wizeline.com, pass20$
+user22@wizeline.com, Pass22$
+user22@wizeline.com, Pass22$
+user2@wizeline.com, pass2
+user333@wizeline.com, Pass3$
