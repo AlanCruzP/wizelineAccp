@@ -1,4 +1,0 @@
-{"_id":{"$oid":"618eb3c9fd64d33d9df3afc5"},"nombre":"cristian","apellido":"ortega","edad":27.0}
-{"_id":{"$oid":"618ebacafd64d33d9df3afcb"},"nombre":"Jorge","gustos":["Estudiar","viajar"]}
-{"_id":{"$oid":"618ebccbfd64d33d9df3afcc"},"nombre":"mariano","apellido":"Morales"}
-{"_id":{"$oid":"618ebd4efd64d33d9df3afcd"},"nombre":"Jorge","apellido":"Patlan","gustos":["Streming","Fornite"]}
